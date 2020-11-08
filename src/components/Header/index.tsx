@@ -5,8 +5,8 @@ import { Text } from 'rebass'
 
 import styled from 'styled-components'
 
-import Logo from '../../assets/images/sushiswap-shiny-logo.png'
-import LogoDark from '../../assets/images/sushiswap-shiny-logo-dark.png'
+import Logo from '../../assets/images/cityswap-logo.png'
+import LogoDark from '../../assets/images/cityswap-logo.png'
 import { useActiveWeb3React } from '../../hooks'
 import { useDarkModeManager } from '../../state/user/hooks'
 import { useETHBalances } from '../../state/wallet/hooks'

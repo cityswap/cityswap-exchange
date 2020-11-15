@@ -1,10 +1,12 @@
-# SushiSwap Classic Exchange Interface
+# CitySwap Exchange Interface
 
-Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface), and updated to work with SushiSwap contracts.
+Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface), 
+[sushiswap/sushiswap-classic-exchange](https://github.com/sushiswap/sushiswap-classic-exchange) 
+and updated to work with SushiSwap contracts.
 
-## Accessing the SushiSwap Classic Exchange Interface
+## Accessing the CitySwap Exchange Interface
 
-To access the SushiSwap Exchnage, visit [exchange.sushiswapclassic.org](https://exchange.sushiswapclassic.org/#/).
+To access the CitySwap Exchange, visit [cityswap.exchange](https://cityswap.exchange/#/).
 
 ## Development
 

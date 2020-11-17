@@ -42,6 +42,14 @@
         "decimals": 18
       },
       {
+        "address": "0x601b02791f81c6832d5d087d671efdcd414565c8",
+        "chainId": 1,
+        "name": "Toronto token",
+        "logoURI": "https://cityswap.io/img/cities/toronto.png",
+        "symbol": "TORONTO",
+        "decimals": 18
+      },
+      {
         "address": "0x8d073134489b2f98fd14e8d7fa6d7050f8d4814c",
         "chainId": 1,
         "name": "Riyadh token",

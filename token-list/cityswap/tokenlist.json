@@ -62,7 +62,7 @@
         "chainId": 1,
         "name": "mexico token",
         "logoURI": "https://cityswap.io/img/cities/mexico.png",
-        "symbol": "mexico",
+        "symbol": "MEXICO",
         "decimals": 18
       },
       {
@@ -95,6 +95,14 @@
         "name": "Istanbul token",
         "logoURI": "https://cityswap.io/img/cities/istanbul.png",
         "symbol": "ISTANBUL",
+        "decimals": 18
+      },
+      {
+        "address": "0xe4e96fee870d73cdb9832d712eb2de6427928200",
+        "chainId": 1,
+        "name": "Warsaw token",
+        "logoURI": "https://cityswap.io/img/cities/warsaw.png",
+        "symbol": "WARSAW",
         "decimals": 18
       }
     ]

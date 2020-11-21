@@ -4,7 +4,7 @@ export const DEFAULT_TOKEN_LIST_URL = 'https://cityswap.exchange/tokens.json';
 export const DEFAULT_LIST_OF_LISTS: string[] = [
   DEFAULT_TOKEN_LIST_URL,
   // 't2crtokens.eth', // kleros
-  'tokens.1inch.eth', // 1inch
+  // 'tokens.1inch.eth', // 1inch
   // 'synths.snx.eth',
   // 'tokenlist.dharma.eth',
   // 'defi.cmc.eth',

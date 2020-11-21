@@ -43,14 +43,14 @@ export function colors(darkMode: boolean): Colors {
     // text
     text1: darkMode ? '#FFFFFF' : '#000000',
     text2: darkMode ? '#C3C5CB' : '#565A69',
-    text3: darkMode ? '#6C7284' : '#9a7c64',
+    text3: darkMode ? '#6C7284' : '#1a1c14',
     text4: darkMode ? '#565A69' : '#C3C5CB',
     text5: darkMode ? '#2C2F36' : '#e6ddd6',
 
     // backgrounds / greys
     bg1: darkMode ? '#212429' : '#FFFFFF',
-    bg2: darkMode ? '#2C2F36' : '#fff7f2',
-    bg3: darkMode ? '#40444F' : '#e6ddd6',
+    bg2: darkMode ? '#2C2F36' : '#E4EFFC', //background
+    bg3: darkMode ? '#40444F' : '#95B7E6', // soft-button background
     bg4: darkMode ? '#565A69' : '#CED0D9',
     bg5: darkMode ? '#6C7284' : '#9a7c64',
 
@@ -59,14 +59,14 @@ export function colors(darkMode: boolean): Colors {
     advancedBG: darkMode ? 'rgba(0,0,0,0.1)' : 'rgba(255,255,255,0.6)',
 
     //primary colors
-    primary1: darkMode ? '#2172E5' : '#805e49',
+    primary1: darkMode ? '#2172E5' : '#3B85C9', // hard-style
     primary2: darkMode ? '#3680E7' : '#88715f',
     primary3: darkMode ? '#4D8FEA' : '#aa9585',
     primary4: darkMode ? '#376bad70' : '#e2d6cf',
-    primary5: darkMode ? '#153d6f70' : '#f0e9e7',
+    primary5: darkMode ? '#153d6f70' : '#85B7E6', // soft-style
 
     // color text
-    primaryText1: darkMode ? '#6da8ff' : '#805e49',
+    primaryText1: darkMode ? '#6da8ff' : '#101019',
 
     // secondary colors
     secondary1: darkMode ? '#2172E5' : '#805e49',

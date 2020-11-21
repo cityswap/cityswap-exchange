@@ -13,7 +13,7 @@
       "address": "0xf27DC1f57f8C8f57AB7dbbb25ce1747FcB542100",
       "chainId": 1,
       "name": "City token",
-      "logoURI": "https://cityswap.io/img/cities/beijing.png",
+      "logoURI": "https://cityswap.io/img/cities/city.png",
       "symbol": "CITY",
       "decimals": 18
     },

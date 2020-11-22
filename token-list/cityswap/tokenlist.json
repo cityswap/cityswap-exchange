@@ -120,6 +120,14 @@
       "logoURI": "https://cityswap.io/img/cities/warsaw.png",
       "symbol": "WARSAW",
       "decimals": 18
+    },
+    {
+      "address": "0xec94bce39b3e4e67a9e48c7f21047b9a5dbcdaab",
+      "chainId": 1,
+      "name": "Tehran token",
+      "logoURI": "https://cityswap.io/img/cities/tehran.png",
+      "symbol": "TEHRAN",
+      "decimals": 18
     }
   ]
 }

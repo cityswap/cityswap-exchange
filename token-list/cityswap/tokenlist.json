@@ -128,6 +128,14 @@
       "logoURI": "https://cityswap.io/img/cities/tehran.png",
       "symbol": "TEHRAN",
       "decimals": 18
+    },
+    {
+      "address": "0xd7ada66c6aaf7f7b5092199276c1c8c1e94f7891",
+      "chainId": 1,
+      "name": "Berlin token",
+      "logoURI": "https://cityswap.io/img/cities/berlin.png",
+      "symbol": "BERLIN",
+      "decimals": 18
     }
   ]
 }

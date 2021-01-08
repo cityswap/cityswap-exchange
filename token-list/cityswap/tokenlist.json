@@ -160,6 +160,14 @@
       "logoURI": "https://cityswap.io/img/cities/hanoi.png",
       "symbol": "HANOI",
       "decimals": 18
+    },
+    {
+      "address": "0x2d481dbda81896a0046a34de82caf231ea95cabd",
+      "chainId": 1,
+      "name": "Athens token",
+      "logoURI": "https://cityswap.io/img/cities/athens.png",
+      "symbol": "ATHENS",
+      "decimals": 18
     }
   ]
 }

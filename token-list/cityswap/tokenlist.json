@@ -218,6 +218,14 @@
       "decimals": 18
     },
     {
+      "address": "0x9676b053c0d00b7224bd25a4585eb6be16990cdd",
+      "chainId": 1,
+      "name": "Jakarta token",
+      "logoURI": "https://cityswap.io/img/cities/jakarta.png",
+      "symbol": "JAKARTA",
+      "decimals": 18
+    },
+    {
       "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
       "chainId": 1,
       "name": "Uni token",
